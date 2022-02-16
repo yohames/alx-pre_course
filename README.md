@@ -1,5 +1,5 @@
 # ALX Project 0x01. Git
-In this project I am learning how to use git how to add git repo how to commit how to push to the remote origin and so on
+In this project I learned how to use git how to add git repo how to commit how to push to the remote origin and so on
 
 ## How to setup Git in your computer
 1. Install git to your computer if not already installed
