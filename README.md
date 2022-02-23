@@ -29,6 +29,6 @@ $creates git repo
 #push repo to the remote
 >git push -u origin master
 
-
+some updates are done from github ...
 ```
 ## Thank you for reading!
