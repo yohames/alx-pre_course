@@ -32,5 +32,6 @@ $creates git repo
 
 ```
 This README is for 0x01-git project
+Some updates are done from github remote repo...
 
 ## Thank you for reading!
